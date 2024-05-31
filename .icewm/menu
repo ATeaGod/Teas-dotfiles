@@ -1,0 +1,16 @@
+prog URxvt _none_ urxvt
+prog kitty _none_ kitty
+prog Terminal _none_ konsole
+prog Gimp _none_ gimp
+prog Srain _none_ srain
+prog Files _none_ dolphin
+prog Emacs _none_ emacs
+prog FireFox _none_ firefox
+include ~/.icewm/appmenu
+
+menu Stuff _none_ {
+	menu ice-hacks _none_ {
+	prog reload _none_ ~/.icewm/combo mkmenu
+	prog fehbg _none_ ~/.fehbg
+	}
+}
