@@ -1,11 +1,21 @@
-prog URxvt _none_ urxvt
-prog kitty _none_ kitty
-prog Terminal _none_ konsole
-prog Gimp _none_ gimp
-prog Srain _none_ srain
-prog Files _none_ dolphin
-prog Emacs _none_ emacs
-prog FireFox _none_ firefox
+menu Terminal _none_ { 
+	prog Teminal _none_ konsole 
+}
+menu Graphics _none_ {
+	prog Gimp _none_ gimp
+}
+menu Files _none_ {
+	prog Files _none_ thunar
+}
+menu Games _none_ {
+	prog Steam _none_  steam
+	prog MCPE _none_ mcpelauncher-ui-qt
+	prog PrismLauncher _none_ prismlauncher
+}
+menu Web _none_ {
+	prog Discord _none_ discord
+	prog FireFox _none_ firefox
+}
 include ~/.icewm/appmenu
 
 menu Stuff _none_ {
