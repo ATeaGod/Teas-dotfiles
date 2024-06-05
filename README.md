@@ -5,6 +5,10 @@
 -polybar<br>
 -feh<br>
 -picom (semi optional)<br>
+<h3>for screenshotting</h3>
+-maim<br>
+-xclip<br>
+-xdotool<br>
 <h2>Some Sort Of Installation "Guide"</h2>
 The wallpapers go in ~/Documents/<br>
 (you can change at the bottom of the config file)<br>
