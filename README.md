@@ -10,7 +10,7 @@
 -xclip<br>
 -xdotool<br>
 <h2>Some Sort Of Installation "Guide"</h2>
-The wallpapers go in ~/Documents/<br>
+The wallpapers go in ~/Backgrounds/<br>
 (you can change at the bottom of the config file)<br>
 put "i3" and "polybar" in ~/.config/<br>
 put picom.conf wherever that wants to go(idk where to put it other than /etc/xdg/)<br>
