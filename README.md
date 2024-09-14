@@ -13,7 +13,7 @@
 The wallpapers go in ~/Wallpapers/<br>
 (you can change at the bottom of the config file)<br>
 put "i3" and "polybar" in ~/.config/<br>
-put picom.conf wherever that wants to go(idk where to put it other than /etc/xdg/)<br>
+put picom.conf in ~/.config/ or ~/.config/picom/<br>
 </p1>
 <h1> ICEWM guide</h1>
 <p2>
