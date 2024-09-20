@@ -1,10 +1,12 @@
+<h1> :3 <h1>
+
 <body>
 <h1>You will need</h1> 
 <p1>
--i3wm<br>
--polybar<br>
+<a href="https://i3wm.org/">-i3wm</a><br>
+<a href="https://github.com/polybar/polybar">-polybar</a><br>
 -feh<br>
--picom (semi optional)<br>
+<a href="https://github.com/yshui/picom">-picom (semi optional)</a><br>
 <h3>for screenshotting</h3>
 -maim<br>
 -xclip<br>
@@ -21,3 +23,4 @@ copy .icewm to home directory<br>
 and thats it :3<br>
 </p2>
 </body>
+
